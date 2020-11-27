@@ -1,5 +1,5 @@
 # Text-Summarization
-Prequisties:<br>
+__Prequisties:__<br>
 Python 3.6.8<br>
 After that in your CMD/Terminal run:<br>
 pip3 install -r requirements.txt <br>
