@@ -1,8 +1,8 @@
 # Text-Summarization
-Prequisties:__
-Python 3.6.8__
-After that in your CMD/Terminal run:__
-pip3 install -r requirements.txt __
-This will install all the required librarires.__
-To run the app:__
+Prequisties:<br>
+Python 3.6.8<br>
+After that in your CMD/Terminal run:<br>
+pip3 install -r requirements.txt <br>
+This will install all the required librarires.<br>
+To run the app:<br>
 streamlit run webapp.py
